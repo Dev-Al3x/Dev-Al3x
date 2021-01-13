@@ -24,10 +24,9 @@ Hi, I'm [Al3x](https://discord.gg/tGBBR63T), a passionate  Discord Developer �
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning Html; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: [Al3x#0101](https://twitter.com/abhisheknaiidu);
 
 **Languages and Tools:**  
 
