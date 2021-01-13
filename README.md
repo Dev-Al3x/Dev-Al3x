@@ -52,7 +52,7 @@ Hi, I'm [Al3x](https://discord.gg/tGBBR63T), a passionate  Discord Developer �
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+<p align="center">📈 My GitHub Stats </>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dev-Al3x&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
