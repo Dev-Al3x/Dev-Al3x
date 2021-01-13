@@ -5,7 +5,7 @@
 <a href="https://twitter.com/DevAlex38965571">
   <img align="center" alt="Al3x | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/hkdh0hx3n6rx1o8k72toqkrqh">
   <img align="center" alt="Al3x Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.reddit.com/user/Dev-Al3x">
