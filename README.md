@@ -34,10 +34,10 @@ Hi, I'm [Al3x](https://discord.gg/tGBBR63T), a passionate  Discord Developer �
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  6,886 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 524 tasks so far           
-⏳  Longest streak is 10 days
+🏆  3,674 Karma Points           
+📁  Completed 5 tasks today           
+✅  Completed 264 tasks so far           
+⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
 
 
