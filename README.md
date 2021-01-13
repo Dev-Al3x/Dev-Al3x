@@ -2,13 +2,13 @@
 <a href="https://discord.gg/Y8w8UR82"> 
   <img align="center" alt="Al3x Discord Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/DevAlex38965571">
   <img align="center" alt="Al3x | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="center" alt="Al3x Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="https://www.reddit.com/user/Dev-Al3x">
   <img align="center" alt="Al3x Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
