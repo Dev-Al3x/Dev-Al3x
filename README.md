@@ -1,4 +1,4 @@
-### Socials 🖥
+<ph3 align="center">### Socials 🖥</>
 <a href="https://discord.gg/Y8w8UR82"> 
   <img align="center" alt="Al3x Discord Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
