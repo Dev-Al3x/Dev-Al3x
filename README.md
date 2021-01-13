@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Al3x&theme=algolia&show_icons=true)
