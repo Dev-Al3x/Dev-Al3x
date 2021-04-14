@@ -30,9 +30,6 @@ Hi, I'm [Al3x](https://discord.gg/tGBBR63T), a passionate  Discord Developer ðŸŒ
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
-<p align="center">ðŸ“ˆ My GitHub Stats </>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dev-Al3x&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
