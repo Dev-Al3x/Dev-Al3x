@@ -1,5 +1,5 @@
 ### Socials 🖥
-<a href="https://discord.gg/Y8w8UR82"> 
+<a href="https://discord.gg/AE3G6Mec5y"> 
   <img align="center" alt="Al3x Discord Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/DevAlex38965571">
@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Al3x](https://discord.gg/tGBBR63T), a passionate  Discord Developer 🌏 from Greece.
+Hi, I'm [Al3x](https://discord.gg/AE3G6Mec5y), a passionate  Discord Developer 🌏 from Greece.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Dev-Al3x/Dev-Al3x/main/code.gif" width="500" height="320" />
   
